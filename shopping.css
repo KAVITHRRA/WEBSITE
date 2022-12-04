@@ -1,0 +1,329 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: #eae0d5;
+    /* box-sizing: border-box; */
+    list-style: none;
+    font-family: 'Nunito', sans-serif;
+
+    background: -moz-linear-gradient (45deg, #F7F7F7 0% , #EAE0D5 100%);
+    background: -webkit-linear-gradient (45deg, #F7F7F7 0%, #EAE0D5 100%)
+    background; linear-gradient :(45deg, #fffbfb 0%, #EAE0D5 100%)
+    
+}
+
+.header-img{
+
+    width:auto;
+    height: 400px;
+    background: url('Alkmaar-Netherlands.jpg');
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    
+}
+
+
+.goodies{
+
+    margin: 40px auto;
+    padding: 20px 30px 40px 30px;
+    background-color: #FFFF;
+    overflow: auto;
+    width: 75%;
+    border-radius: 4px;
+    align-self: center;
+}
+
+.goodies h1{
+    text-align:center;
+    font: italic;
+    padding: 0 20px;
+    color: #080202;
+    overflow: auto;
+    opacity: 0.9;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.goodies p {
+    
+    color: #938e89;
+    text-align: center;
+    line-height: 24px;
+    font-family: 'Raleway' , sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.image {
+    border-radius: 8px;
+    height: 300px;
+    width: 300px;
+    padding: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6%;
+    
+}
+
+.spectrum {
+    font: italic;
+    padding:50px;
+    color: #000000;
+    overflow: auto;
+    opacity: 0.9;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+.spectrum p {
+    color:#181616;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+
+}
+
+
+
+.clogs {
+    background-color: rgba(164, 212, 164, 0.699);
+    box-shadow: 5px 10px #ecf3ee;
+    border-radius: 0.5%;
+    
+}
+
+.image2 {
+    border-radius: 8px;
+    height: 300px;
+    width: 300px;
+    padding: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6%;
+
+}
+
+.cheese {
+    background-color:rgba(208, 180, 127, 0.596);
+    box-shadow: 5px 10px #ecf3ee;
+    border-radius: 0.5%;
+}
+
+.cheese p{
+    color: #1f1b1b;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    
+}
+
+.wafels{
+    background-color: rgba(113, 141, 167, 0.432);
+    box-shadow: 5px 10px #ecf3ee;
+    border-radius: 0.5%;
+
+}
+
+.wafels p{
+    color: #000000;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.image3 {
+    border-radius: 8px;
+    height: 300px;
+    width: 300px;
+    padding: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6%;
+}
+
+.pottery{
+    background-color: rgba(101, 101, 128, 0.37);
+    box-shadow: 5px 10px #ecf3ee;
+    border-radius: 0.5%;
+}
+
+.image4 {
+    border-radius: 8px;
+    height: 300px;
+    width: 300px;
+    padding: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6%;
+}
+
+.pottery p {
+    color: #000000;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.bicycle{
+    background-color: rgba(173, 128, 125, 0.575);
+    box-shadow: 5px 10px #ecf3ee;
+    border-radius: 0.5%;
+}
+
+.image5 {
+    border-radius: 8px;
+    height: 300px;
+    width: 300px;
+    padding: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6%;
+}
+
+.bicycle p{
+    color: #0a0a0a;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.pie{
+    background-color: rgb(207, 184, 202);
+    box-shadow: 5px 10px #ecf3ee;
+    border-radius: 0.5%;
+}
+
+.image6 {
+    border-radius: 8px;
+    height: 300px;
+    width: 300px;
+    padding: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6%;
+}
+
+.pie p{
+    color: #000000;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.licorice{
+    background-color: rgba(96, 121, 93, 0.61);
+    box-shadow: 5px 10px #ecf3ee;
+    border-radius: 0.5%;
+
+}
+
+.image7 {
+    border-radius: 8px;
+    height: 300px;
+    width: 300px;
+    padding: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6%;
+}
+
+.licorice p{
+    color: #171818;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.chocolate{
+    background-color: rgb(188, 162, 141);
+    box-shadow: 5px 10px #ecf3ee;
+    border-radius: 0.5%;
+
+}
+
+.image8 {
+    border-radius: 8px;
+    height: 300px;
+    width: 300px;
+    padding: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6%;
+}
+
+
+
+.chocolate p{
+    color: #000000;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul {
+    margin : 0 auto ;
+    padding : 0 ;
+    width : 75% ;
+}
+
+li {
+    border-bottom : 1px solid#E4BB97 ;
+    list-style:none ;
+    margin:100px 0px ;
+    padding-bottom:60px ;
+}
+
+
+
+.amsterdam p {
+    color :#b38383 ;
+    line-height : 32px ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 20px ;
+    font-weight: 100 ;
+}
+
+a {
+
+  color :#214E34 ;
+  font-family :'Raleway',sans-serif ;
+  font-size :13px ;
+  font-weight :900 ;
+  text-align :left ;
+  text-transform:uppercase ;
+  text-decoration:none ;
+  letter-spacing:2px ;
+}
+
+.amsterdam h3{
+    font: italic;
+    padding: 0 20px;
+    color: #a78b72;
+    overflow: auto;
+    opacity: 0.9;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 38px;
+    text-align :center ;
+}
+
+
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    box-shadow: 5px 10px #b6b2b2;
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
